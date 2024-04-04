@@ -1,6 +1,6 @@
 [
     {"id" : 1,"name" :"NTU_EXAM" ,"price":1000, "image":"ntu.jpg" ,"description" :"台大103-113年資工考古題"},
-    {"id" : 2,"name" :"NCTU_EXAM","price":800,  "image":"nctu.jpg","description" :"交大103-113年資工考古題"},
+    {"id" : 2,"name" :"NYCU_EXAM","price":800,  "image":"nycu.jpg","description" :"交大103-113年資工考古題"},
     {"id" : 3,"name" :"NTHU_EXAM","price":800,  "image":"nthu.jpg","description" :"清大103-113年資工考古題"},
     {"id" : 4,"name" :"NCU_EXAM" ,"price":500,  "image":"ncu.jpg" ,"description" :"中央103-113年資工考古題"}
 ]
